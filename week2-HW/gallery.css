@@ -15,7 +15,8 @@ body{
     background-repeat: no-repeat;
     color:#FFFFFF;
     text-align: center;
-    background-size: 100%;
+    background-size: contain;
+    background-position: center center;
     margin-bottom:25px;
     font-size: 150%;
 }
